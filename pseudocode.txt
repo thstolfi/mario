@@ -1,0 +1,5 @@
+- Ask for height, needs to be between 1 and 8, otherwise ask again
+- Read the input ("X")
+- Lines go:
+    Line 1 = 1X + \n
+    Line 2 = 2X + \n
